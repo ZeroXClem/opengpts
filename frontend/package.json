@@ -21,7 +21,7 @@
     "marked": "^9.1.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "tailwind-merge": "^2.0.0"
+    "tailwind-merge": "^2.4.0"
   },
   "devDependencies": {
     "@types/dompurify": "^3.0.4",
